@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="gmedia" size="0.060000 0.102814" />
-    <ImageTarget name="queen_of_hearts2" size="0.060000 0.087120" />
-    <ImageTarget name="Uno-JPG-01" size="0.550000 0.851829" />
+    <ImageTarget name="Marcador_2" size="0.280000 0.216364" />
+    <ImageTarget name="Marcador_1" size="0.280000 0.216091" />
+    <ImageTarget name="Logo_G-fashion" size="0.210000 0.271847" />
   </Tracking>
 </QCARConfig>
